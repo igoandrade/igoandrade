@@ -1,13 +1,17 @@
+
+<!--
 ## Olá, eu sou Igo da Costa Andrade 👋
 
 
 - 🔭 Atualmente, trabalho na Universidade Federal do Tocantins 
 - 🌱 Eu estou aprendendo Ciência de Dados com python e R
 
+-->
+
 
 <div>
   <a href="https://github.com/igoandrade">
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igoandrade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igoandrade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igoandrade&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
